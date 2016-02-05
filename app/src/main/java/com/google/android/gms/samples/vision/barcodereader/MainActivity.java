@@ -66,8 +66,8 @@ public class MainActivity extends Activity implements View.OnClickListener {
         if (v.getId() == R.id.read_barcode) {
             // launch barcode activity.
             Intent intent = new Intent(this, BarcodeCaptureActivity.class);
-            intent.putExtra(BarcodeCaptureActivity.AutoFocus, autoFocus.isChecked());
-            intent.putExtra(BarcodeCaptureActivity.UseFlash, useFlash.isChecked());
+            intent.putExtra(CaptureDialogFragment.AutoFocus, autoFocus.isChecked());
+            intent.putExtra(CaptureDialogFragment.UseFlash, useFlash.isChecked());
 
             startActivityForResult(intent, RC_BARCODE_CAPTURE);
         }
@@ -101,7 +101,7 @@ public class MainActivity extends Activity implements View.OnClickListener {
         if (requestCode == RC_BARCODE_CAPTURE) {
             if (resultCode == CommonStatusCodes.SUCCESS) {
                 if (data != null) {
-                    Barcode barcode = data.getParcelableExtra(BarcodeCaptureActivity.BarcodeObject);
+                    Barcode barcode = data.getParcelableExtra(CaptureDialogFragment.BarcodeObject);
                     statusMessage.setText(R.string.barcode_success);
                     barcodeValue.setText(barcode.displayValue);
                     Log.d(TAG, "Barcode read: " + barcode.displayValue);

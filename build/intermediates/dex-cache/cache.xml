@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/dhCho/GitHub/SampleBarcode/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="97f3b099801a9ad9d70e835b9125273e986eb68d">
+        <dex dex="/Users/dhCho/GitHub/SampleBarcode/app/build/intermediates/pre-dexed/debug/classes-50c5b6195ddff237b6f5082d081c8c9a4b3215fe.jar" />
+    </item>
+    <item
+        jar="/Users/dhCho/GitHub/SampleBarcode/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3c729e6d76a36c5dc27e6a4c4009296f49eaa88a">
+        <dex dex="/Users/dhCho/GitHub/SampleBarcode/app/build/intermediates/pre-dexed/debug/classes-1cb83f9ecc1195e8d1e86e03c67cd4cd67773a38.jar" />
+    </item>
+    <item
+        jar="/Users/dhCho/GitHub/SampleBarcode/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="325788a04b436a0bccbc5b4c54cf0f12ebdcbd2d">
+        <dex dex="/Users/dhCho/GitHub/SampleBarcode/app/build/intermediates/pre-dexed/debug/classes-b57f5a9894d457b27c77740e92053ec9efbbdae5.jar" />
+    </item>
+    <item
+        jar="/Users/dhCho/GitHub/SampleBarcode/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/dhCho/GitHub/SampleBarcode/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-6556bdf4015b45de84a9d531c290ff9ad2d422d0.jar" />
+    </item>
+    <item
+        jar="/Users/dhCho/GitHub/SampleBarcode/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="82825756edeeb3b56b15e73b2edd56e93da5a444">
+        <dex dex="/Users/dhCho/GitHub/SampleBarcode/app/build/intermediates/pre-dexed/debug/classes-5f98ca6cdda4e078773b6f93109afed0d8a9bb60.jar" />
+    </item>
+    <item
+        jar="/Users/dhCho/GitHub/SampleBarcode/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="482de223655d06253cc6a4955d653f8994169500">
+        <dex dex="/Users/dhCho/GitHub/SampleBarcode/app/build/intermediates/pre-dexed/debug/classes-8f4af330de42106d53f646e5ff3964e5c2286e3d.jar" />
+    </item>
+    <item
+        jar="/Users/dhCho/GitHub/SampleBarcode/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="/Users/dhCho/GitHub/SampleBarcode/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-7c77bf1644362e4238ffb5ab0b822deddd4f7b24.jar" />
+    </item>
+    <item
+        jar="/Users/dhCho/GitHub/SampleBarcode/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="/Users/dhCho/GitHub/SampleBarcode/app/build/intermediates/pre-dexed/debug/classes-4715aad5e2f1e93e31488810de39afbb080f789a.jar" />
+    </item>
+    <item
+        jar="/Users/dhCho/GitHub/SampleBarcode/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="95758a2905669affbffc5ddd262921d375674fad">
+        <dex dex="/Users/dhCho/GitHub/SampleBarcode/app/build/intermediates/pre-dexed/debug/classes-2c9959eea9624bc5dc8598c91febc14edef1bb86.jar" />
+    </item>
+    <item
+        jar="/Users/dhCho/GitHub/SampleBarcode/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="17449c47df35c754b257532052f1270c444f7993">
+        <dex dex="/Users/dhCho/GitHub/SampleBarcode/app/build/intermediates/pre-dexed/debug/classes-66dbc536c9e62a18ab8b042307ff47cfa7772f07.jar" />
+    </item>
+    <item
+        jar="/Users/dhCho/GitHub/SampleBarcode/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/dhCho/GitHub/SampleBarcode/app/build/intermediates/pre-dexed/debug/classes-bbeb555653234f1970ede85487575389e63a7bf4.jar" />
+    </item>
+    <item
+        jar="/Users/dhCho/GitHub/SampleBarcode/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d93480da1d303122ee67dc3bc23e6297bdef9951">
+        <dex dex="/Users/dhCho/GitHub/SampleBarcode/app/build/intermediates/pre-dexed/debug/classes-2fba8fd7bdf4f5a7aca74dc75f588ab18f7c60ca.jar" />
+    </item>
+    <item
+        jar="/Users/dhCho/GitHub/SampleBarcode/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d61920aba361832a9545a43fa8c9453eb02f18f7">
+        <dex dex="/Users/dhCho/GitHub/SampleBarcode/app/build/intermediates/pre-dexed/debug/classes-fe6465697fa7851919ca096689af8d7eae0e30dc.jar" />
+    </item>
+    <item
+        jar="/Users/dhCho/GitHub/SampleBarcode/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/dhCho/GitHub/SampleBarcode/app/build/intermediates/pre-dexed/debug/classes-afa9ac703811d38069d69beb0f326b9db8987346.jar" />
+    </item>
+    <item
+        jar="/Users/dhCho/GitHub/SampleBarcode/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="041d93cf0533591c29d1d7263b2fa114dbfb20bd">
+        <dex dex="/Users/dhCho/GitHub/SampleBarcode/app/build/intermediates/pre-dexed/debug/classes-962e31d57036a86599eae16126228db227c39392.jar" />
+    </item>
+    <item
+        jar="/Users/dhCho/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/dhCho/GitHub/SampleBarcode/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-e606132769a5975eb406f9dae5723dfe13f7f819.jar" />
+    </item>
+    <item
+        jar="/Users/dhCho/GitHub/SampleBarcode/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="/Users/dhCho/GitHub/SampleBarcode/app/build/intermediates/pre-dexed/debug/classes-2ab4ab1b7727dc4c161248a898a4ad03034e5442.jar" />
+    </item>
+    <item
+        jar="/Users/dhCho/GitHub/SampleBarcode/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dcb5b75baf05d92e61d5706737200ee55949f97b">
+        <dex dex="/Users/dhCho/GitHub/SampleBarcode/app/build/intermediates/pre-dexed/debug/classes-d2d3b9b13d18aaf84971f5e8341238a4d414132d.jar" />
+    </item>
+    <item
+        jar="/Users/dhCho/GitHub/SampleBarcode/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="/Users/dhCho/GitHub/SampleBarcode/app/build/intermediates/pre-dexed/debug/classes-90ce66ba05d135592e153100ab72f9bd09f4b47c.jar" />
+    </item>
+    <item
+        jar="/Users/dhCho/GitHub/SampleBarcode/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2a7e47da654546f9457deb6132364f1bf33a1857">
+        <dex dex="/Users/dhCho/GitHub/SampleBarcode/app/build/intermediates/pre-dexed/debug/classes-8040dcd462bcd6c8a4e3577f60af454f32bf76f5.jar" />
+    </item>
+    <item
+        jar="/Users/dhCho/GitHub/SampleBarcode/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="997773777cf3904c11d6764fe3b7668538220e49">
+        <dex dex="/Users/dhCho/GitHub/SampleBarcode/app/build/intermediates/pre-dexed/debug/classes-078324377e9b7ce0889edc397b74b04259221b0d.jar" />
+    </item>
+    <item
+        jar="/Users/dhCho/GitHub/SampleBarcode/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3178362320bcf51228835b60ff978efadfd1f783">
+        <dex dex="/Users/dhCho/GitHub/SampleBarcode/app/build/intermediates/pre-dexed/debug/classes-338f95c1d4503250637816e7b0087913fb2c3093.jar" />
+    </item>
+    <item
+        jar="/Users/dhCho/GitHub/SampleBarcode/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3aed37c38c56679602255dd72ef356da5d327cda">
+        <dex dex="/Users/dhCho/GitHub/SampleBarcode/app/build/intermediates/pre-dexed/debug/classes-fa55227e77d7e643393c59809ce44672e50f33a7.jar" />
+    </item>
+    <item
+        jar="/Users/dhCho/GitHub/SampleBarcode/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="/Users/dhCho/GitHub/SampleBarcode/app/build/intermediates/pre-dexed/debug/classes-04a8c1a0405d5753016489bd237d6c0468cc63b8.jar" />
+    </item>
+    <item
+        jar="/Users/dhCho/GitHub/SampleBarcode/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="993834cb17d07d51b92db89d2c330243592ebf77">
+        <dex dex="/Users/dhCho/GitHub/SampleBarcode/app/build/intermediates/pre-dexed/debug/classes-d6d1f2f4adea4eb85fa5fb77b425e4d6f0b2c81c.jar" />
+    </item>
+    <item
+        jar="/Users/dhCho/GitHub/SampleBarcode/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9cf8c0ef60847621c7ad00b4f78dbfc9daba4af2">
+        <dex dex="/Users/dhCho/GitHub/SampleBarcode/app/build/intermediates/pre-dexed/debug/classes-659044b846b2b9911b1e7d86a4d7b4448157193c.jar" />
+    </item>
+    <item
+        jar="/Users/dhCho/GitHub/SampleBarcode/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3b05c18f60969ecc2ba49c0409c4b96be2d9cb0c">
+        <dex dex="/Users/dhCho/GitHub/SampleBarcode/app/build/intermediates/pre-dexed/debug/classes-2bc3dcf61018d784dae408ecf51422eb74784967.jar" />
+    </item>
+    <item
+        jar="/Users/dhCho/GitHub/SampleBarcode/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b92002cb2f0e11a226ac5bac6dff1dc2a9d0b774">
+        <dex dex="/Users/dhCho/GitHub/SampleBarcode/app/build/intermediates/pre-dexed/debug/classes-d9d0ec04bbca1363d0ea372e4976715fb33e197d.jar" />
+    </item>
+    <item
+        jar="/Users/dhCho/GitHub/SampleBarcode/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d294caf562c4c678b2ef351662a0ca6f1a4d06c0">
+        <dex dex="/Users/dhCho/GitHub/SampleBarcode/app/build/intermediates/pre-dexed/debug/classes-6b0e5f33d74fefb2275efaecce1a376b1fab2367.jar" />
+    </item>
+
+</items>
