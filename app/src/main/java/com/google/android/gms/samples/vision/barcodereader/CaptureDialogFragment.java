@@ -70,19 +70,6 @@ public class CaptureDialogFragment extends DialogFragment implements View.OnClic
     public void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 
-        // read parameters from the intent used to launch the activity.
-        boolean autoFocus = getArguments().getBoolean(AutoFocus, false);
-        boolean useFlash = getArguments().getBoolean(UseFlash, false);
-
-        // Check for the camera permission before accessing the camera.  If the
-        // permission is not granted yet, request permission.
-        int rc = ActivityCompat.checkSelfPermission(getActivity(), Manifest.permission.CAMERA);
-        if (rc == PackageManager.PERMISSION_GRANTED) {
-            createCameraSource(autoFocus, useFlash);
-        } else {
-            requestCameraPermission();
-        }
-
         scaleGestureDetector = new ScaleGestureDetector(getActivity(), new ScaleListener());
 
 //        Snackbar.make(mGraphicOverlay, "Tap to capture. Pinch/Stretch to zoom",
@@ -103,6 +90,20 @@ public class CaptureDialogFragment extends DialogFragment implements View.OnClic
         mGraphicOverlay = (GraphicOverlay<BarcodeGraphic>) layout.findViewById(R.id.graphicOverlay);
         mActionCapture = (Button) layout.findViewById(R.id.btn_capture);
         mActionCapture.setOnClickListener(this);
+
+        // read parameters from the intent used to launch the activity.
+        boolean autoFocus = getArguments().getBoolean(AutoFocus, false);
+        boolean useFlash = getArguments().getBoolean(UseFlash, false);
+
+        // Check for the camera permission before accessing the camera.  If the
+        // permission is not granted yet, request permission.
+        int rc = ActivityCompat.checkSelfPermission(getActivity(), Manifest.permission.CAMERA);
+        if (rc == PackageManager.PERMISSION_GRANTED) {
+            createCameraSource(autoFocus, useFlash);
+        } else {
+            requestCameraPermission();
+        }
+
         return layout;
     }
 
