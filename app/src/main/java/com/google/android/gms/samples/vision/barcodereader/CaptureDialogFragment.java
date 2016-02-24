@@ -92,7 +92,7 @@ public class CaptureDialogFragment extends DialogFragment implements View.OnClic
         mActionCapture.setOnClickListener(this);
 
         // read parameters from the intent used to launch the activity.
-        boolean autoFocus = getArguments().getBoolean(AutoFocus, false);
+        boolean autoFocus = getArguments().getBoolean(AutoFocus, true);
         boolean useFlash = getArguments().getBoolean(UseFlash, false);
 
         // Check for the camera permission before accessing the camera.  If the
